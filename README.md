@@ -4,7 +4,7 @@
 
 Modern, responsive landing page built with **React** featuring a clean design, mobile-friendly hamburger menu, dark/light mode potential, and placeholder content for a personal / creative brand.
 
-This project was created as part of the **Mission Ready Level 4 Full Stack Developer Mission X** final portfolio assessment, demonstrating front-end development skills, state management with `useState`, responsive design, and clean component structure.
+This project was created as part of the **Mission Ready Level 5 Full Stack Developer Mission 0** final portfolio assessment, demonstrating front-end development skills, state management with `useState`, responsive design, and clean component structure.
 
 ## Features
 

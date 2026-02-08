@@ -21,17 +21,20 @@ function App() {
             <nav className="desktop-nav">
               <a
                 href="https://www.youtube.com/@thebrotoots"
+                // controls opening a new tab and prevents newly open tab from controlling 
+                // the original page 
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 YouTube
               </a>
-              <a 
+              <a
                 href="https://www.facebook.com/turei.milner.3/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                FaceBook</a>
+                FaceBook
+              </a>
               <a
                 href="https://www.tiktok.com/@thebrotoots"
                 target="_blank"
@@ -52,8 +55,8 @@ function App() {
                 aria-label="Toggle menu"
               >
                 <svg
-                  width="32"
-                  height="32"
+                  width="42"
+                  height="42"
                   fill="none"
                   stroke="#000000"
                   viewBox="0 0 24 24"
@@ -72,7 +75,7 @@ function App() {
           {/* Mobile Menu */}
           {isMenuOpen && (
             <div className="mobile-menu">
-              <a href="#">YouTube</a>
+              <a href="https://www.youtube.com/@thebrotoots">YouTube</a>
               <a href="#">FaceBook</a>
               <a href="#">TikTok</a>
               <a href="#" className="login-link">

@@ -71,7 +71,7 @@
   display: block;
   background: none;
 }
-
+/* for responsive site  */
 @media (min-width: 768px) {
   .desktop-nav {
     display: flex;

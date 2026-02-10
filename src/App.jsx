@@ -78,22 +78,22 @@ function App() {
             <div className="mobile-menu">
               <a
                 href="https://www.youtube.com/@thebrotoots"
-                // target="_blank"
-                // rel="noopener noreferrer"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 YouTube
               </a>
               <a
                 href="https://www.facebook.com/turei.milner.3/"
-                // target="_blank"
-                // rel="noopener noreferrer"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 FaceBook
               </a>
               <a
                 href="https://www.tiktok.com/@thebrotoots"
-                // target="_blank"
-                // rel="noopener noreferrer"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 TikTok
               </a>
